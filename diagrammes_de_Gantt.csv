@@ -1,0 +1,27 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Priorité,Statut
+1201458918069210,2021-12-02,,2021-12-02,Création du formulaire note de frais,À faire,,,2022-01-08,2022-01-12,,,diagrammes de Gantt,,Moyenne,
+1201458918069207,2021-12-02,,2021-12-02,Création de la page note de frais,À faire,,,2022-01-08,2022-01-12,,,diagrammes de Gantt,,Moyenne,
+1201458918069181,2021-12-02,,2021-12-02,Livrables,À faire,,,2022-02-02,2022-02-06,,,diagrammes de Gantt,,Élevée,
+1201458918069169,2021-12-02,,2021-12-02,Test/Recette,À faire,,,2022-01-18,2022-01-22,,,diagrammes de Gantt,,Élevée,
+1201458918069142,2021-12-02,,2021-12-02,Développement,À faire,,,2022-01-02,2022-01-06,,,diagrammes de Gantt,,Élevée,
+1201458918069119,2021-12-02,,2021-12-02,Préparation des Données,À faire,,,2021-12-15,2021-12-19,,,diagrammes de Gantt,,Élevée,Dans les délais
+1201458918069100,2021-12-02,,2021-12-02,Analyse des Besoins,À faire,,,2021-11-28,2021-12-02,,,diagrammes de Gantt,,Élevée,Dans les délais
+1201458918069037,2021-12-02,,2021-12-02,Collecte des données,À faire,,,2021-12-22,2021-12-28,,,diagrammes de Gantt,,Moyenne,
+1201458918069041,2021-12-02,,2021-12-02,Exploration des données,À faire,,,2021-12-22,2021-12-27,,,diagrammes de Gantt,,Moyenne,
+1201458918069039,2021-12-02,,2021-12-02,"Gérer les valeurs manquantes, les inexactitudes ou les autres erreurs",À faire,,,2021-12-22,2021-12-27,,,diagrammes de Gantt,,Moyenne,
+1201458918068976,2021-12-02,,2021-12-02,WIreframe (schéma),À faire,,,2021-12-04,2021-12-06,,,diagrammes de Gantt,,Moyenne,Dans les délais
+1201458918068978,2021-12-02,,2021-12-02,Maquette,À faire,,,2021-12-04,2021-12-08,,,diagrammes de Gantt,,Moyenne,Dans les délais
+1201458918068980,2021-12-02,,2021-12-02,Définition de l'UX,À faire,,,2021-12-04,2021-12-09,,,diagrammes de Gantt,,Moyenne,
+1201458918068982,2021-12-02,,2021-12-02,Choix de la BDD,À faire,,,2021-12-04,2021-12-10,,,diagrammes de Gantt,,Moyenne,Dans les délais
+1201458918068984,2021-12-02,,2021-12-02,Identifier le modèle de prédiction de Machine Learning,À faire,,,2021-12-04,2021-12-10,,,diagrammes de Gantt,,Moyenne,Dans les délais
+1201458918069058,2021-12-02,,2021-12-02,Création de la page admin,À faire,,,2022-01-08,2022-01-11,,,diagrammes de Gantt,,Moyenne,
+1201458918069060,2021-12-02,,2021-12-02,Création de la page de connexion,À faire,,,2022-01-08,2022-01-12,,,diagrammes de Gantt,,Moyenne,
+1201458918069068,2021-12-02,,2021-12-02,Création d'un formulaire d'enregistrement/connexion,À faire,,,2022-01-08,2022-01-15,,,diagrammes de Gantt,,Moyenne,
+1201458918069072,2021-12-02,,2021-12-02,Création de la structure BDD,À faire,,,2022-01-08,2022-01-12,,,diagrammes de Gantt,,Moyenne,
+1201458918069074,2021-12-02,,2021-12-02,Création du modèle de machine learning,À faire,,,2022-01-08,2022-01-14,,,diagrammes de Gantt,,Moyenne,
+1201458918069076,2021-12-02,,2021-12-02,Entrainement du modèle,À faire,,,2022-01-08,2022-01-11,,,diagrammes de Gantt,,Moyenne,
+1201458918069078,2021-12-02,,2021-12-02,Evaluation & Interprétation,À faire,,,2022-01-08,2022-01-12,,,diagrammes de Gantt,,Moyenne,
+1201458918069083,2021-12-02,,2021-12-02,Recette interne: passer le site sous tous les navigateurs prévus et tester les fonctions,À faire,,,2022-01-24,2022-01-31,,,diagrammes de Gantt,,Moyenne,
+1201458918069087,2021-12-02,,2021-12-02,La mise en ligne,À faire,,,2022-02-09,2022-02-13,,,diagrammes de Gantt,,Moyenne,
+1201458918069089,2021-12-02,,2021-12-02,Schema merise2,À faire,,,2022-02-09,2022-02-14,,,diagrammes de Gantt,,Moyenne,
+1201458918069091,2021-12-02,,2021-12-02,Documentation de la BDD,À faire,,,2022-02-09,2022-02-14,,,diagrammes de Gantt,,Moyenne,
